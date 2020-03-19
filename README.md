@@ -23,3 +23,5 @@ docker-compose run pyth python main.py results
 ```
 docker-compose down
 ```
+![ScreenShot](https://github.com/xianchen2/Analysis_Millions_of_NYC_Parking_Violations/blob/master/%20Kibana%20-%20localhost.png)
+
