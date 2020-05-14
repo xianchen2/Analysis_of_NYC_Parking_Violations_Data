@@ -20,4 +20,4 @@ docker-compose down
 ```
 ![ScreenShot](https://github.com/xianchen2/Analysis_Millions_of_NYC_Parking_Violations/blob/master/%20Kibana%20-%20localhost.png)
 
-Data Source:[Open Parking and Camera Violations dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/nc67-uf89)
+Data Source: [Open Parking and Camera Violations dataset](https://dev.socrata.com/foundry/data.cityofnewyork.us/nc67-uf89)
