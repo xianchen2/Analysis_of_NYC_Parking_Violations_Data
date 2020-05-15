@@ -6,10 +6,11 @@ To Run:
 ```
 docker-compose up -d
 ```
-
+Get the data:
 ```
 docker-compose run -v $(pwd):/app -e APP_TOKEN=$(cat app_token) pyth python get_data.py page_size=1000 num_pages=10 output=results
 ```
+Load data into ElasticSearch and analyze with Kibana
 ```
 docker-compose run pyth python main.py results
 ```
